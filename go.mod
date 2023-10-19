@@ -196,7 +196,7 @@ require (
 	github.com/prometheus/procfs v0.6.0 // indirect
 	github.com/prometheus/prometheus v1.8.2 // indirect
 	github.com/russross/blackfriday v1.5.2 // indirect
-	github.com/ulikunitz/xz v0.5.6 // indirect
+	github.com/ulikunitz/xz v0.5.8 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	go.etcd.io/etcd/client/pkg/v3 v3.5.5 // indirect
