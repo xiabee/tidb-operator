@@ -90,7 +90,7 @@ require (
 	go.etcd.io/etcd/api/v3 v3.5.0 // indirect
 	go.opentelemetry.io/contrib v0.20.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.20.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.20.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.44.0 // indirect
 	go.opentelemetry.io/otel v0.20.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp v0.20.0 // indirect
 	go.opentelemetry.io/otel/metric v0.20.0 // indirect
