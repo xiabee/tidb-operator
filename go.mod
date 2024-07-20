@@ -68,7 +68,7 @@ require (
 	k8s.io/kube-aggregator v0.23.17
 	k8s.io/kube-scheduler v0.23.17
 	k8s.io/kubectl v0.23.17
-	k8s.io/kubernetes v1.23.17
+	k8s.io/kubernetes v1.27.16
 	k8s.io/utils v0.0.0-20211116205334-6203023598ed
 	mvdan.cc/sh/v3 v3.4.3
 	sigs.k8s.io/controller-runtime v0.7.2
